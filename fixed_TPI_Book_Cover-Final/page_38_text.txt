@@ -1,0 +1,78 @@
+(b) The number of deductee’s record in a statement for any
+quarter of F.-Y. is twenty or more.
+
+Then such deductors are also required to furnish the quarterly
+statements electronically. However, for the other deductors filing
+of e-TDS is optional.
+
+8.3 e-Administrator, e-Intermediary, TIN
+Facilitation Centres
+
+For the purpose of administering the scheme of e-TDS, the
+Central Board of Direct Taxes has appointed Director-General of
+Income-tax (Systems) as the e-Filing Administrator. The e-
+TDS return is mandatorily to be prepared in data format issued by
+the e- Administrator.
+
+The e-Returns are to be submitted at centres referred is TIN
+Facilitation Centres (or TIN FCs) which have been opened by
+National Security Depository Ltd. (NSDL) which has also been
+designated as e-Intermediary.
+
+8.4 Data Structure of e-TDS, Procedure for filing
+
+The e-TDS return has to be prepared in the data format issued
+by the e-Filing Administrator. This format/software is available on
+the website of the Income-tax Department at
+http:\\ www.incometaxindia.gov.in and that of NSDL at
+http:\\ www.tin-nsdl.com.
+
+There is also a validation software which is available along
+with the data structure. This is required to be used to validate the
+data structure of the e-TDS return prepared. Each e-TDS return
+filed should also be accompanied by a control chart which should
+be in the newly prescribed form 27 A. The same has to be duly
+signed by the deductor and submitted alongwith e-TDS to the e-
+Intermediary. The following specific points must also be noted in
+filing of e-TDS returns.
+
+64
+
+(a) Reformatted TAN : All deductors required to e-File TDS
+returns have to quote their reformatted Tax Deduction
+Account Number (TAN) in their respective TDS returns.
+Wherever, reformatted TANs have not been allotted,
+application in form 49 B should be filed with NSDL for
+obtaining the same.
+
+(b) Each e-TDS return file should be in a separate CD or
+floppy and should not span across multiple floppies.
+Further, label must be affixed on each CD/floppy
+mentioning the name of the deductor, his stamp, form
+number and the period to which the return pertains.
+
+(c) There should not be any overwriting, striking on form 27
+A and if there is, then the same should be ratified by the
+authorized signatory.
+
+(d) Further, if any of the controlled totals mentioned in form
+No. 27 A (control chart) does not match with that in the
+e-TDS return, then such returns will not be accepted at
+the TIN Facilitation Centres.
+
+(e) While filing form no. 24, deductor should furnish physical
+copies of certificates of no deduction or deduction at a
+lower rate of TDS, if any, received from the deductees.
+
+(f) No bank challan, copy of TDS certificate should be
+furnished alongwith e-TDS return filed.
+
+The e-TDS prepared by the deductor has to be submitted at
+the TIN Facilitation Centres opened by NSDL which is the e-TDS
+Intermediary. The addresses of the TIN Facilitation Centres are
+available at websites of Income-tax Department http:\\
+www.incometaxindia.gov.in and of NSDL at http:\\ www.tin-
+nsdl.com. It is also to be noted that quarterly TDS returns are also
+to be filed in Electronic file with e-TDS Intermediary.
+
+65

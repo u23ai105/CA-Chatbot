@@ -1,0 +1,99 @@
+19.
+
+20.
+
+21.
+
+How are the particulars of those employees who are
+with the employer for a part of the year to be shown in
+Form 24Q?
+
+Where an employee has worked with a deductor for part of
+the financial year only, the deductor should deduct tax at source
+from his salary and report the same in the quarterly Form
+24Q of the respective quarter(s) up to the date of employment
+with him. Further, while submitting Form 24Q for the last
+quarter, the deductor should include particulars of that employee
+in Annexures II & II] irrespective of the fact that the employee
+was not under his employment on the last day of the year.
+
+Similarly, where an employee joins employment with the
+deductor during the course of the financial year, his TDS
+particulars should be reported by the current deductor in Form
+24Q of the relevant quarter. Further, while submitting Form
+24Q for the last quarter, the deductor should include particulars
+of TDS of such employee for the actual period of employment
+under him in Annexures II & III.
+
+The manner of computing total income has been changed
+by allowing deduction under section 80C. However, the
+present Form 24Q shows a column for rebate under
+section 88, 88B, 88C and 88D, how should Form 24Q
+be filled up in absence of a column for section 80C?
+
+While filling up Form 24Q, the columns pertaining to sections
+88, 88B, 88C and 88D may be left blank. As regards deduction
+under section 80C, the same can be shown in the column 342
+pertaining to “Amount deductible under any other provision
+of Chapter VI-A”.
+
+Form 24Q shows a column which requires explanation
+for lower deduction of tax. How can a DDO assess it?
+Please clarify.
+
+Certificate for lower deduction or no deduction of tax from
+salary is given by the Assessing Officer on the basis of an
+
+76
+
+22.
+
+23.
+
+24.
+
+25.
+
+application made by the deductee. In cases where the
+Assessing Officer has issued such a certificate to an employee,
+deductor has to only mention whether no tax has been deducted
+or tax has been deducted at lower rate on the basis of such a
+certificate.
+
+Can I file Form 26Q separately for contractors,
+professionals, interest etc.?
+
+No. A single Form 26Q with separate annexures for each
+type of payment has to be filed for all payments made to residents.
+
+From which financial year will the Annual Statement
+under Sec. 203AA (Form No. 26AS) be issued?
+
+The annual statement (Form No 26AS) will be issued for all
+tax deducted and tax collected at source from F.Y 2008-09
+onwards after the expiry of the financial year.
+
+How will the PAN wise ledger account be created by
+the intermediary i.e. NSDL in respect of payment of TDS
+made by deductors in Banks.
+
+The PAN wise ledger account will be created after matching
+the information in the TDS/TCS returns filed by the deductor/
+collector and the details of tax deposited in banks coming
+through OLTAS.
+
+What essential information will be required to be given
+in the quarterly statement to enable accurate generation
+of PAN wise ledger account?
+
+The accuracy of PAN wise ledger account will depend on:-
+¢ — Correct quoting of TAN by the deductor.
+
+¢ — Correct quoting of PAN of deductor.
+
+¢* — Correct and complete quoting of PAN of deductee.
+
+¢* — Correct quoting of CIN (challan identification number)
+wherever payment is made by challan.
+
+77

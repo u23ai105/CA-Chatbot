@@ -1,0 +1,92 @@
+(4)
+
+(5)
+
+iii)
+
+(iv)
+
+(b) the collector is the principal officer of a company;
+or
+
+(c) the collector is a person who is required to get his
+accounts audited under section 44AB in the
+immediately preceding financial year;
+
+(d) the number of collectee’s records in a statement
+for any quarter of the financial year are twenty or
+more, the collector shall furnish the statement in
+the manner specified in item (b) of clause (i).
+
+Where the collector is a person other than the person
+referred to in clause.
+
+the statement referred to in sub-rule (1) may, at his option,
+be delivered or cause to be delivered in the manner
+specified in item (b) of clause (i).
+
+The collector at the time of preparing statements of tax
+
+collected shall-
+
+(i) quote his tax deduction and collection account number
+(TAN) in the statement;
+
+(ii) quote his permanent account number (PAN) in the
+statement except in the case where the collector is an
+office of the Government;
+
+(iii) quote the permanent account number of all collectees;
+
+(iv) furnish particulars of the tax paid to the Central
+
+Government including book identification number or
+challan identification number, as the case may be.
+
+The Director General of Income tax (Systems) shall specify
+the procedures, formats and standards for the purposes of
+furnishing of the statements and shall be responsible for the
+day to day administration in relation to furnishing of the
+statements in the manner so specified.
+
+50
+
+(6) Where a statement of tax collected at source is to be furnished
+for tax collected before the 1st day of April, 2010, the
+provisions of this rule shall apply as they stood immediately
+before their substitution by the Income-tax ( Amendment)
+Rules, 2010.
+
+5.5 Filing of Return on Computer Readable Media:
+
+The law also provides for filing of statements in computer
+readable media, referred as e-filing of annual return.The provisions
+of e-filing of statements of TDS is being given below.
+
+Section 206(2) permits the deductor to file the statement of
+TDS on computer readable media including a floppy diskette,
+magnetic cartridge or CD ROM. However, the Finance Act 2003
+has provided that w.e.f. 01.06.2003, a statement in computer
+readable media is to be filed only in accordance with such scheme
+and subject to such conditions and manner, as may be specified by
+the Board by notification in official gazette.
+
+The scheme of electronic filing of return on the Tax Deducted
+at Source (e-TDS) has been notified vide notification no. S.O.
+974(e)dt. 26.08.03. The TDS statements in electronic form are to
+be filed only with the e-TDS intermediary at any of the TIN
+Facilitation Centres (particulars available at the websites,
+www.incometaxindia.gov.in and http://tin.nsdl.com).
+
+Further, where the assessing officer considers a statement
+filed u/s 206(2) to be defective, then he may intimate the defect to
+the deductor/employer filing the statement, giving him an opportunity
+to rectify the defect. This must be rectified within a period of 15
+days from the date of intimation or within such further period which
+the assessing officer allows, on an application made by the
+employers/deductor. However, on failure to rectify the defect within
+the period specified above, the return shall be treated to be invalid
+and the provisions of the Act shall apply as if the person had failed
+to deliver the return.
+
+51

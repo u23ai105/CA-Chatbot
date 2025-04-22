@@ -1,0 +1,90 @@
+10.
+
+> Label should be affixed on each CD/floppy mentioning
+name of the deductor, his TAN, Form no. (24, 26 or 27)
+and period to which the return pertains.
+
+> There should be not any overwriting / striking on Form
+27A. If there is any, then the same should be ratified by
+an authorised signatory.
+
+> No bank challan, copy of TDS certificate should be
+furnished alongwith e-TDS return file.In case of Form
+26 and 27, deductor need not furnish physical copies of
+certificates of no deduction or lower deduction of TDS
+received from deductees.
+
+> Incase of Form 24 deductor should furnish physical
+copies of certificates of ‘no deduction or deduction of
+TDS at lower rate’, if any, received from deductees.
+
+> e-TDS return file should contain TAN of the deductor
+without which the return will not be accepted.
+
+>  CD/floppy should be virus free.
+
+In case any of these requirements are not met the e-TDS
+return will not be accepted at TIN- FCs.
+
+Can more than one e- TDS return of the same Deductor
+be prepared in one CD/floppy?
+
+No separate CD/floppy should be used for each return.
+Where can the e-TDS return be filed?
+
+e-TDS returns can be filed at any of the TIN-FC opened
+by the e-TDS Intermediary for this purpose. Addresses of
+these TIN-FCs are available at the website on
+http://www.incometaxindia.gov.in or at www.tin-nsdl.com.
+
+What are the basic details that should be included in
+the e-TDS return?
+
+Following information must be included in the e-TDS return
+
+72
+
+for successful acceptance. If any of these essential details is
+missing, the returns will not be accepted at the TIN -
+Facilitation Centres -
+
+e Correct Tax deduction Account Number (TAN) of the
+Deductor is clearly mentioned in Form No.27A as also
+in the e-TDS return, as required by sub-section (2) of
+section 203A of the Income-tax Act.
+
+° The particulars relating to deposit of tax deducted at
+source in the bank are correctly and properly filled in the
+table at item No.6 of Form No.24 or item No.4 of Form
+No.26 or item No.4 of Form No.27, as the case may be.
+
+¢ The data structure of the e-TDS return is as per the
+structure prescribed by the e-Filing Administrator.
+
+¢ The Control Chart in Form 27A is duly filled in all columns
+and verified and as enclosed in paper form with the e-
+TDS return on computer media.
+
+¢ The Control totals of the amount paid and the tax
+deducted at source as mentioned at item No.4 of Form
+No.27A tally with the corresponding totals in the e- TDS
+return in Form No. 24 or Form No. 26 or Form No.27,
+as the case may be.
+
+11. What happens if any of the control total mentioned in
+
+12.
+
+Form 27A not match with that in the e-TDS return?
+
+In such a case the e-TDS return will not be accepted at the
+TIN Facilitation Centre.
+
+What happens in a situation where a deductor does not
+have TAN or has a TAN in old format?
+
+The Deductor will have to file an application in Form 49B at
+the TIN Facilitation Centre along with application fee
+(Rs 50/-) for TAN.
+
+73

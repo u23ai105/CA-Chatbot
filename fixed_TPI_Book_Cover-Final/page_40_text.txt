@@ -1,0 +1,83 @@
+With respect to the quarterly statements of TDS, the
+
+following points are noteworthy : -
+
+Every deductor is required to file the quarterly statement
+of TDS in form No. 24Q for each quarter as per the
+dates specified above.
+
+In case of the following ;
+(a) Every Government deductor,
+(b) Corporate deductor,
+
+(c) The deductor is a person required to get his accounts
+audited under sec. 44 AB in the immediately
+preceding financial year or,
+
+(d) the number of deductee’s records in a statement
+for any quarter of the financial year is twenty or
+more, the quarterly statements are to be delivered
+on computer readable media (3.5" 1.44 MB floppy
+diskette or CD-Rom of 650 MB capacity). The
+statement in computer readable media is to be
+prepared as per data structure provided by the e-
+filing Administrator(DGIT Systems) designated by
+the Board for purposes of e-TDS Scheme : 2003.
+Further, a declaration in Form 27A is also to be
+submitted in paper format.
+
+A person other than a corporate or government deductor
+and categories specified above, may at his option deliver
+the quarterly statements in computer readable media as
+specified above. However, it is not mandatory for him
+to do so.
+
+The quarterly statements are to be furnished in
+accordance with the provisions of rule 37A and rule 37B.
+
+It is mandatory for the deductor to quote the following in
+quarterly statements
+
+68
+
+(a) TAN
+(b) PAN of the deductor
+(c) PAN of all the deductees
+
+(d) Particulars of tax paid to the Central Government
+including Book Identification Number or Challan
+Identification Number as the case may be.
+
+However, where the deduction has been made by or on behalf
+
+of the Government, PAN shall not be required to be quoted in the
+quarterly statement.
+
+¢ The deductor is also required to furnish the particulars
+of tax paid to the Central Government in the quarterly
+statements.
+
+8.7 Frequently Asked Questions
+
+1.
+
+What is e-TDS Return?
+
+e-TDS return is a TDS return prepared in form No.24,26 or
+27 or quarterly statements in electronic media as per prescribed
+data structure in either a floppy or a CD ROM. The floppy or
+CD ROM prepared should be accompanied by a signed
+verification in Form No.27A.
+
+Who is required to file e-TDS return?
+
+As per Section 206 of Income Tax Act all corporate and
+government deductors are compulsorily required to file their
+TDS return on electronic media (i.e. e-TDS returns). Besides,
+those persons requiring to get their accounts audited u/s 44AB
+and those deductors in whose records there are twenty or
+more deductees are also to submit statements electronically.
+However, for other Deductors, filing of e-TDS return is
+optional.
+
+69

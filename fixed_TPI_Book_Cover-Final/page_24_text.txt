@@ -1,0 +1,82 @@
+issuance of a duplicate certificate and such duplicate
+certificate is certified as duplicate by the deductor.
+
+(6) (i) Where a certificate is to be furnished in Form No.
+16, the deductor may, at his option, use digital
+signatures to authenticate such certificates.
+
+(ii) In case of certificates issued under clause (i), the
+deductor shall ensure that
+
+(a) the provisions of sub rule (2) are complied with;
+
+(b) once the certificate is digitally signed, the contents
+of the certificates are not amenable to change; and
+
+(c) the certificates have a control number and a log of
+such certificates is maintained by the deductor.
+
+(7) Where a certificate is to be furnished for tax deducted
+before the 1st day of April, 2010, it shall be furnished in
+the Form in accordance with the provisions of the rules
+as they stood immediately before their substitution by
+the Income-tax( Amendment) Rules, 2010.
+
+Explanation.
+
+For the purpose of this rule and rule 37D, challan identification
+number means the number comprising the Basic Statistical Returns
+(BSR) Code of the Bank branch where the tax has been deposited,
+the date on which the tax has been deposited and challan serial
+number given by the bank.
+
+4.4 TAX DEDUCTION AND COLLECTION
+ACCOUNT NUMBER (TAN)
+
+A person deducting tax at source, if not already allotted, a
+TAN(or a tax collection account number) should apply for allotment
+of TAN in Form No. 49B. The application has to be made in
+duplicate to the Assessing Officer (AO) or to any particular
+Assessing Officer where this duty is assigned by the Chief
+
+36
+
+Commissioner or the Commissioner to that A.O. The application
+should be made within one month from the end of the month in
+which the tax is deducted for the first time.
+
+TAN should be quoted in all the TDS Certificates,
+challans, quarterly statements, correspondence, etc. Non
+compliance with the provision of Section 203A invites rigorous
+imprisonment for a term not less than 3 months but which may
+extend to 7 years and with a fine of Rs.10,000/-.
+
+Reference Section 203 A, Rule 114 A; and Rule 114AA.
+
+4.5 Time and mode of payment to Government
+Account of Tax Collected under Sec. 206C
+
+A new Rule 37 CA regarding time and mode of payment of
+TCS has been introduced vide I.T.(6" Amendment) Rules, 2010.
+This rule provides for the following :
+
+(1) All sums collected in accordance with the provisions of
+sub-section (1) or sub-section (1C) of section 206C by
+an office of the Government shall be paid to the credit of
+the Central Government -
+
+(a) on the same day where the tax is so paid without
+production of an income-tax challan; and
+
+(b) on or before seven days from the end of the month in
+which the collection is made, where tax is paid
+accompanied by an income-tax challan.
+
+(2) All sums collected in accordance with the provisions of
+sub-section (1) or sub-section (1C) of section 206C by
+collectors other than an office of the Government shall
+be paid to the credit of the Central Government within
+one week from the last day of the month in which the
+collection is made.
+
+37

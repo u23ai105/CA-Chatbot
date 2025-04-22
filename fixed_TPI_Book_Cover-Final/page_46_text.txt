@@ -1,0 +1,68 @@
+35.
+
+36.
+
+equal to the total number of records of tax deduction.
+10 payments to | party would mean 10 deductee records.
+
+¢ Amount Paid: This is the total amount of all payments
+made on which tax was deducted. In case of Form 24Q,
+it is equal to the Total Taxable Income of all the
+employees. In case of Form 26/27, Amount Paid is equal
+to the total of all the amounts on which tax has been
+deducted at source.
+
+¢ Tax Deducted: This is the total amount of Tax actually
+Deducted at source for all payments.
+
+¢ Tax deposited: This is the total of all the deposit challans.
+This is normally the same as Tax Deducted but at times
+may be different due to interest or other amount.
+
+Are the control totals appearing in Form 27A same as
+that of Error/ response File?
+
+Yes, the control totals in Form 27A and in Error/ response File
+are same.
+
+What if e-TDS return does not contain PANs of all
+deductees?
+
+In case PANs of some of the deductees are not mentioned in
+the e-TDS return, the Provisional Receipt will mention the
+count of missing PANs in the e-TDS return. The details of
+missing PANs (extent it can be collected from the deductees)
+may be furnished within seven days of the date of Provisional
+Receipt to TIN- FC. e-TDS return will be accepted even
+with missing PANs. However, if PAN of deductees is not
+given in the TDS return, tax deducted from payment made to
+him cannot be posted to the statement of TDS to be issued to
+him u/s 203AA.
+
+80
+
+37.
+
+38.
+
+39.
+
+Is the bank challan number compulsory?
+
+Yes. Challan identification number is necessary for all non
+government deductors.
+
+Will the quarterly paper returns be accepted by the
+Income tax department?
+
+No. All quarterly paper TDS/TCS returns will be received at
+TIN-FCs
+
+Is PAN mandatory for deductor and employees/
+deductees?
+
+PAN of the deductors has to be given by non government
+deductors. It is essential to quote PAN of all deductees failing
+which credit of tax deducted will not be given.
+
+81

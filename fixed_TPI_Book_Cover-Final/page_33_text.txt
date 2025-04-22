@@ -1,0 +1,103 @@
+Chapter 6
+
+NON-DEDUCTION AND LOWER
+DEDUCTION OF TAX AT SOURCE
+
+6.1 Lower deduction/non-deduction of tax
+
+The Income-tax Act provides for deduction of tax at a lower
+rate/non-deduction of tax in certain circumstances. These provisions
+as contained in chapter XVII B of the Act, is being discussed
+below:
+
+(a) Section 197 :- Section 197 gives a right to the assessee to
+apply to the Assessing Officer for obtaining a certificate that
+tax may not be deducted or be deducted at a lower rate in
+case of any sum payable under Sections 192, 193, 194, 194A,
+194C, 194D, 194G, 194H, 1941, 194J, 194K,194LA, and 195.
+For issue of a certificate u/s 197 the assessing officer should
+be satisfied that the non-deduction/deduction of tax at a lower
+rate in the hands of recipient is justified.The application
+u/s 197 has to be made in form No. 13 as per Rule 28 enclosing
+the documents and furnishing particulars specified therein.
+
+w.e.f 1.4.2011 vide Income-tax (Second Amendment) Rules
+2011 the following provisons have been incorporated in Rule
+28AA pertaining to issue of TDS certificate u/s 197
+
+(1) Where the Assessing Officer, on an application made by a
+person under sub-rule (1) of rule 28 is satisfied that
+existing and estimated tax liability of a person justifies
+the deduction of tax at lower rate or no deduction of tax,
+as the case may be, the Assessing Officer shall issue a
+certificate in accordance with the provisions of sub-section
+(1) of section 197 for deduction of tax at such lower rate
+or no deduction of tax.
+
+54
+
+(2)
+
+(i)
+
+(ii)
+
+(iii)
+
+(iv)
+
+(v)
+
+(vi)
+
+(3)
+
+(4)
+
+(5)
+
+(b)
+
+The existing and estimate liability referred to in sub-rule
+(1) shall be determined the Assessing Officer after taking
+into consideration the following:-
+
+tax payable on estimated income of the previous year
+relevant to the assessment year;
+
+tax payable on the assessed or returned income, as the
+case may be, of the last three previous years;
+
+existing liability under the Income-tax Act, 1961 and
+Wealth-tax Act, 1957;
+
+advance tax payment for the assessment year relevant to
+the previous year till the date of making application under
+sub-rule (1) of rule 28;
+
+tax deducted at source for the assessment year relevant
+to the previous year till the date of making application
+under sub-rule (1) of rule 28; and
+
+tax collected at source for the assessment year relevant to
+the previous year till the date of making application under
+sub-rule (1) of rule 28.
+
+The certificate shall be valid for such period of the
+previous year as may be specified in the certificate, unless
+it is cancelled by the Assessing Officer at any time before
+the expiry of the specified period.
+
+The certificate shall be valid only with regard to the person
+responsible for deducting the tax and named there in.
+
+The certificate shall be issued direct to the person
+responsible for deducting the tax under advice to the
+person who made an application for issue of such
+certificate.
+
+Section 197A(1) :- Section 197A(1) provides that no
+deduction of income-tax at source is to made u/s
+194(Dividends), 194EE(deposits in NSS) in case of a resident
+
+55

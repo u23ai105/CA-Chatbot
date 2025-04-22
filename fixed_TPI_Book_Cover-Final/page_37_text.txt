@@ -1,0 +1,57 @@
+Where the amount of tax, which would have been evaded if
+the statement or account had been accepted as true, is | lakh rupees
+or less, then rigorous imprisonment may be from 3 months to three
+years and with fine.
+
+7.6 The Finance Act, 2008 has introduced amendment in section
+201(w.e.f. 1.6.2002) which clarifies, that in case any employer,
+or an principal officer of a company;
+
+(a) does not deduct,or
+(b) does not pay,
+
+(c) or after so deducting fails to pay the whole or any part
+of the tax,then such person shall be deemed to be an
+assessee in default. Further, penalty to be charges
+u/s 221 shall not be levied by the assessing officer unless
+he is satisfied that such failure to deduct and pay tax
+was without good and sufficient reasons.
+
+62
+
+CHAPTER-8
+
+e-TDS & QUARTERLY STATEMENTS
+OF TDS
+
+8.1 Introduction :
+
+e-TDS implies, filing of the TDS return in electronic media as
+per prescribed data structure in either a floppy or a CD ROM.
+
+The aforesaid requirement is essentially a part of the process
+of automation of collection, compilation and processing of TDS
+returns. Preparation of returns in electronic forms or e-TDS will
+eventually be beneficial to the deductor by cutting down the return
+preparation time, reducing the volume of documentation and thereby
+economizing the compliance cost. At the same time, it will also
+facilitate the Government in better co-relation of taxes deducted
+with the taxes finally deposited in the banks and credits of TDS
+claimed by the deductees.
+
+8.2 Statutory Requirement of Preparation of e-TDS
+
+As per proviso to section 206(2), w.e.f. 01/04/2005, a deductor
+is required to prepare the return of TDS in electronic form. The
+comprehensive scheme of e-TDS has been notified vide
+Notification No. S.O. 974 (E) dated 26/08/2003. The present
+statutory provisions mandate the Government and Corporate
+deductors to file the TDS returns and statements in
+electronic form with the designated e-TDS Intermediary
+at any of the TIN facilitation centres. Further, where the
+deductor is,
+
+(a) Aperson required to get his accounts audited u/s 44 AB
+in the immediately preceding FY. or
+
+63
