@@ -1,0 +1,76 @@
+shall be the Annual Value. For example, in case of a house,
+whose municipal valuation is Rs. 24,000/- and actual rent
+received is Rs. 36,000/- the annual lettable value will be taken at
+Rs.36,000/-. If the actual rent received is Rs. 18,000/- and
+municipal valuation is Rs.24,000/-, the annual value would be
+Rs. 24,000/- for the purpose of the Income-tax Act. Here,
+if the property was vacant for six months and the rent
+received is Rs. 18,000/- for six months the Annual Value shall
+be Rs. 18,000/-.
+
+Where the property is subject to Rent Control Act, its
+annual value under section 23(1) cannot exceed the standard
+rent (fixed or determined) under the Rent Control Act unless
+it is actually let out for a higher amount. Such a view has been
+expressed by the Supreme Court in the cases of Dewan Daulat
+Rai Kapoor v. NDMC (1980) 122 ITR 700 (SC); Amolak
+Ram Khosla v. CIT (1981) 131 ITR 589 (SC) & Mrs. Shiela
+Kaushik v. CIT (1981) 131 ITR 435 (SC).
+
+Determination of Annual Value of Self-occupied property
+
+In case of one self-occupied house property which has
+not been actually let out at any time, the annual value is taken
+as ‘nil’. If, one is having more than one house property using
+all of them for self-occupation, he is entitled to exercise an
+option in terms of which, the value of one house property as
+specified by him will be taken at nil. The annual value of the
+other self occupied house properties will be determined on
+notional basis as if these had been let out.
+
+Annual Value of one house away from work place
+
+A person may own a house property, say in Bangalore,
+which he normally uses for his residence. He is transferred to
+Chennai where he does not own any house property and stays
+in a rental accommodation. In such case, the house property
+
+in Bangalore cannot be used for self-occupation and notional
+income therefor would normally have been chargeable although
+he derives no benefit from the property. To save the taxpayer
+from hardship in such situations, it has been specifically
+provided that the annual value of such a property would be
+taken to be nil subject to the following conditions:
+
+* The assessee must be owner of only one house property.
+
+* He is not able to occupy the house property because of
+his employment, business etc. being away from place
+where the property is situated.
+
+* The property should not have been actually let.
+
+* He has to reside at the place of employment in a building
+not belonging to him [Section 23(2)(b)].
+
+* He does not derive any other benefit from the property
+not occupied.
+
+Determination of Annual Value of Let out house properties
+
+In respect of a let out house property, the rent received
+is usually taken as the annual lettable value. When, however,
+the rent is not indicative of the actual earning capacity of the
+house, the notional annual value will have to be found and
+adopted. The standard rent would be the Annual Value in the
+case of properties, subject to Rent Control Legislation, as
+mentioned earlier. However, when the actual rent received or
+receivable is higher than the notional value as calculated
+above, the higher figure will be taken for the purpose of
+Income-tax. From the annual value as determined above,
+municipal taxes are to be deducted if the following conditions
+are fulfilled:
+
+¢ The property is let out during the whole or any part of
+the previous year (There is no such deduction in respect
+of a self-occupied house property).
