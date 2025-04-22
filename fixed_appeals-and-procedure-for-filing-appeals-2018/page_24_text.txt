@@ -1,0 +1,35 @@
+> All amounts are in Indian Rupees.
+
+> A calendar is provided for selecting the
+date field (format DD/MM/YY).
+
+> All greyed out fields are either auto-filled
+or non-editable.
+
+> In Forms wherever information is captured
+in tables, to Add new Row Click on Add
+button and enter values in the field
+provided. Similarly, to Delete Row click
+Delete button.
+
+For TDS-related disputes, log in with TAN on the
+e-filing website, to e-file appeal.
+
+In case of an appeal against block assessment
+order, the user has to enter the First Year of
+Block in Assessment Year column. E.g., Block
+Year 2002-03 to 2011-12, then enter AY as 2002-
+03. The system would read it as appeal for the
+block period, if section 158 BC or 158 BD are
+mentioned in the order section column.
+
+The word limits provided in Form No 35 in respect
+of various columns are to be strictly followed.
+
+The size of the documents to be to be attached, i.e.,
+the scanned copy of assessment order, demand
+notice, appeal fess challan or any other document
+relied upon in appeal. However, the size of the file
+attached should not exceed 50 Mb.
+
+15
