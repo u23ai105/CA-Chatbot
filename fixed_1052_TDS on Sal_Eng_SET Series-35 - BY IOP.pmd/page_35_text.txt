@@ -1,0 +1,65 @@
+6.7.2 W.e.f.
+1.6.89, u/s.
+89(1) relief can be granted at the time
+of TDS by employers in the following conditions :
+
+(1) If the employee is a Government Servant.
+(2) He is employee in a (a) PSU, (b) Company, (c)
+Cooperative, (d) Local Authority, (e) 7University, (f)
+Institution or Body.
+The employee may furnish to the DDO or the person
+responsible for making payment such particulars in Form 10E
+(read with Rule 21AA) which should be duly verified by him.
+Thereupon the DDO/Person responsible for making payment is
+required to compute the relief u/s 89(1) on the basis of such
+particulars and take into account this relief while making tax
+deduction u/s 192.
+In case of an employee of category other than
+the stated above, such relief can only be allowed by the
+Assessing Officer.
+?
+University means a university established or incorporated by or under state
+central or provincial act and includes an institution declared u/s 3 of the U.GC.
+Act 1956.
+62
+
+CHAPTER-7
+PENALTIES AND PROSECUTION
+
+The various provisions of TDS as discussed in the preceding
+chapters are statutorily required to be strictly complied with.
+Any
+default in compliance can attract, levy of interest, penalty and in
+certain cases initiation of prosecution proceedings.
+In this chapter
+a brief discussion of the possible defaults and the consequential
+proceedings is being done.
+7.1 Failure to deduct tax - Where the employer has failed to
+deduct tax or when short deduction of tax has been done, following
+statutory provisions are attracted:-
+
+a) Charging of interest u/s 201(1A) - The deductor is
+treated to be ‘assessee in default’ in respect of the short deduction/
+non deduction of tax.
+Under Section 201(1A) he is liable to pay
+simple interest @ 1% for every month or part of a month on the
+amount of tax in arrear from the date on which such tax was
+deductible to the date on which such tax is actually deducted.
+Further
+such interest shall be paid before furnishing the quarterly statement
+of each quarter.
+Charging of interest u/s 201(1A) is mandatory and there is no
+provision for its waiver.
+Procedure for interest calculation : The calculation of
+interest is to be done as per Rule 119A and is summarized below:
+
+(i) Where the interest is to be calculated for every month or
+part of a month comprised in a period, any fraction of a
+month shall be deemed to be full month and interest shall be
+so calculated.
+(ii) The amount of tax in respect of which interest is to be calculated
+is to be rounded off to nearest multiple of Rs.
+100 ignoring any
+fraction of Rs.
+100.
+63

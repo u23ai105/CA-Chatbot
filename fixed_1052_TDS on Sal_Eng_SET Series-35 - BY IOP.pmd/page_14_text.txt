@@ -1,0 +1,100 @@
+The income-tax authorities are required treat such certificate
+with digital signatures as a certificate issued in accordance with
+rule 31 of the income-tax Rules, 1962.
+(Circular No.
+2/2007, dated
+21.5.2007).
+RETURN/STATEMENTS OF T.D.S.
+2.8 Return of TDS
+
+A return of TDS is a comprehensive statement containing
+details of salary paid and taxes deducted thereon from the
+employees along with other prescribed details.
+For deductions
+made prior to 01.04.2005 every deductor was required as per
+the provisions of Section 206 (read with Rule 36A and 37) to prepare
+and deliver an annual return, of tax deducted at source in form
+no.
+24.
+Such a return was to be prepared and signed by the
+following - (a) the DDO or the prescribed officer in case of a
+government office; (b) the principal officer in the case of every
+company; (c) the managing partner/ partners in the case of a firm;
+(d) managing trustee in the case of trust; (e) Karta in the case of
+HUF; (f) prescribed person in the case of a local authority/public
+body/association.
+However w.e.f.
+01.04.2006 there is no
+requirement to file annual returns and instead Quarterly
+statements of T.D.S.
+are to be submitted in form 24Q by the
+deductors specified above.
+The quarterly statement of the
+last quarter in form 24Q as amended by notification no.
+119
+dated 12.05.2006, S.O.
+704(E), shall be treated as annual
+return of T.D.S.
+2.8.1 Quarterly statement of TDS
+
+As per sec.
+200(3), every person responsible for deducting
+tax, is required to file statements of TDS for such period and in
+such form as may be prescribed.
+Further it is to be delivered to the
+specified Income-tax authority within a prescribed time.
+20
+
+As per Rule 31A(1) such statements have to be
+furnished quarterly i.e.
+for the quarter ending on 30% June,
+30 September, 31 December & 31% March in each financial
+year which is to be delivered to the prescribed Income-tax
+authority [Director General of Income tax (System)] or the
+persons authorized by such authority [M/s National Securities
+Depositories Ltd. (NSDL)].
+This statement is to be filed in Form No.-24Q (relevant
+rule 31A).
+It must be furnished as per the provision below.
+(i) The due date specified in the corresponding entry in
+column (3) of the Table below, if the deductor is an office
+of Government; and
+
+(ii) The due date specified in the corresponding entry in
+column (4) of the Table below, if the deductor is a person
+other than the person referred to in clause (i)
+
+S.No.]
+Date of ending Due date for Due date for a deductor
+of the quarter of | government who is a person other
+the financial year | deductor than government
+
+@) | @) @) (4)
+
+1.
+| 30th June 31st July of the 5th July of the
+financial year financial year
+
+2.
+| 30th September | 31st October of the 5th October of the
+financial year financial year
+
+3.
+| 31st December 31st January of the 5th January of the
+financial year financial year
+
+4.
+| 31st March 15the May of the Sth May of the
+financial year financial year
+immediately following | immediately following
+the financial year in | the financial year in
+which deduction is which deduction is
+made made
+
+also refer Notification no.
+928(E) dt.
+30.6.2005 of CBDT
+
+and I.T.
+6th Amendment Rues, 2010].
+21

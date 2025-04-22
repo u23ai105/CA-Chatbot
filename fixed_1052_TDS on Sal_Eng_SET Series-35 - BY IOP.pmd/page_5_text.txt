@@ -1,0 +1,88 @@
+CHAPTER-2
+OVER VIEW OF THE TDS
+
+PROVISIONS
+
+2.1 Introduction :
+
+Section 192 of the I.T.Act, 1961 provides that every person
+responsible for paying any income which is chargeable under the
+head ‘salary’, shall deduct income tax on the estimated income of
+the assessee under the head salaries.
+The tax is required to be
+calculated at the average rate of income tax as computed on the
+basis of the rates in force.
+The deduction is to be made at the time
+of the actual payment.
+However, no tax is required to be deducted
+at source, unless the estimated salary income exceeds the maximum
+amount not chargeable to tax applicable in case of an individual
+during the relevant financial year.
+The tax once deducted is required
+to be deposited in government account and a certificate of deduction
+of tax at source (also referred as Form No.16) is to be issued to the
+employee.
+This certificate is to be furnished by the employee with
+his income tax return after which he gets the credit of the TDS in
+his personal income tax assessment.
+Finally, the employer/deductor
+is required to prepare and file quarterly statements in Form No.24Q
+with the Income-tax Department.
+2.2 Who is to deduct tax
+
+The statute requires deduction of tax at source from the income
+under the head salary.
+As such the existence of “employer-employee”
+relationship is the “sine-qua-non” for taxing a particularreceipt under
+the head salaries.
+Sucha relationship is said to exist when the employee
+notonly works under the direct control and supervision of hisemployer
+butalso is subject to the right of the employer to control the manner in
+which he carries out the instructions.
+Thus the law essentially requires
+the deduction of tax when;
+
+(a) Payment is made by the employer to the employee.
+(b) The payment is in the nature of salary and
+
+(c) The income under the head salaries is above the maximum
+amount not chargeable to tax.
+For the various categories of employers, the persons
+responsible for making payment under the head salaries and for
+deduction of tax are as below:
+
+In the case of,
+
+1.
+Central/State Government/P.S.U - The designated
+drawing &
+disbursing officers.
+2.
+Private & Public Companies
+
+The company
+itself as also the
+principal officer
+thereof.
+3.
+Firm - The managing
+partners/partner of
+the firm.
+4.
+HUF - Karta of the HUF
+
+5.
+Proprietorship concern - The proprietor of
+the said concern.
+6.
+‘Trusts - Managing trustees
+thereof.
+In case of accompany, it is to be noted, that though the company
+may designate an officer /employee to make payments on the behalf
+
+'As per sub section 4 of Sec 192, the trustees of a recognised provident fund
+are required to deduct tax at source at the time of making payment of the
+accumulated balance due to an employee.
+The TDS is to be made in a case
+where sub-rule 9 of part - A of Fourth Schedule of the Act applies and the
+deduction is to be made as per rule 10 of part A of Fourth Schedule.

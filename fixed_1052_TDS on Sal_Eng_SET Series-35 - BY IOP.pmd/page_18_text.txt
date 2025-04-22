@@ -1,0 +1,64 @@
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+No declaration under sub-section (1A) or sub-section (1C)
+of section 197A shall be valid unless the person furnishes
+his Permanent Account Number in such declaration.
+In case any declaration becomes invalid under sub-section
+(2), the deductor shall deduct the tax at source in
+accordance with provisions of sub-section(1).
+No certificate under section 197 shall be granted unless
+the application made under that section contains the
+Permanent Account Number of the applicant.
+The deductee shall furnish his Permanent Accont Number
+to the deductor and both shall indicate the same in all the
+correspondence, bills vouchers and other documents
+which are sent to each other.
+Where the Permanent Account Number provided to the
+deductors is invalid or does not belong to the deductee, it
+shall be deemed that the deductee has not furnished his
+Permanent Account Number to the deductor and the
+provisions of sub-section(1) shall apply accordingly.
+28
+
+CHAPTER-3
+INCOME UNDER THE HEAD
+SALARY
+
+3.1 Introduction: The statute enjoins every employer to
+estimate the liability of tax deductible at source and to deduct tax
+at an average rate.
+For this the employer is required to determine
+the salary payable to the employee and accordingly compute the
+tax liability.
+The employer must estimate this tax liability at the
+very beginning of the financial year in accordance with the
+following sequence of steps:
+
+(1) The employer should first compute the gross salary payable
+to the employee during the year taking into account any
+salary received/receivable by the employee from any other
+employer/former employer.
+(2) The gross salary is to be reduced by those payments which
+are exempt from taxation.
+(3) Deductions u/s 16 are to be reduced from the above amount
+to arrive at the net salary payable.
+(4) Income chargeable under any other head as reported by the
+employee is to be added and accordingly the gross total
+income (GTI) is to be computed.
+(5) Deduction under Chapter VI-A for which the employee is
+eligible is to be reduced from gross total income and thus
+the total income is to be computed.
+(6) On the basis of the rates in force, the tax liability on the total
+income of the employee is to be computed.
+(7) The tax liability so computed is to be increased by the
+surcharge payable (if any) and education cess payable at
+prescribed rate, to arrive at the total tax payable.
+29

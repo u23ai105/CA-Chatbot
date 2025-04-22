@@ -1,0 +1,78 @@
+(c) book identification number or numbers where deposit
+of tax deducted is without production of challan in
+case of an office of the Government;
+
+Challan identification number or numbers in case of
+payment through bank.
+(d) (i) receipt number of the relevant quarterly
+statement of tax deducted at source which is
+furnished in accordance with the provisions of
+rule 31A;
+
+(ii) receipt numbers of all the relevant quarterly
+statements in case the statement referred to in
+clause(i) is for tax deducted at source from
+income chargeable under the head "Salaries".
+2.7.2 Time limit for issue of TDS certificate
+
+Subsequent to the Income-tax(6" amendment) for deduction
+made after 1/4/2010, such a certificate is now to be issued by 31*
+May of the Financial Year(F.Y.)
+immediately following the FY.
+in which income was paid and tax deducted.
+For deductions made
+prior to 1/4/2010 the Form 16 was to be issued by the 30" of April.
+w.e.f.
+1.4.2010 In case of employment by more than one
+employer, Part A of Form 16 pertaining to the respective period of
+employment shall be issued by each employer and part B of Form
+no 16 may be issued by each employer or at the option of the
+assessee by the last employer.
+(Part A of Form 16 pertains to tax deposited by book entry
+while part B of Form 16 pertains to tax deposited through challan).
+2.7.3 Statement of deduction of tax-Form 26AS
+
+As per section 203AA the prescribed income-tax authority or
+the person authorized by the such authority (as referred in section
+
+200(3)) is required to deliver to the person from whose income tax
+has been deducted/paid a statement of deduction of tax in the
+prescribed form.
+Such statement as per rule 31 AB is to be furnished
+in form no 26AS by the 31“ July following the Financial Year during
+which the taxes were deducted/paid (also refer Notification no.
+928 E dt.
+30.6.2005 of CBDT)
+
+2.7.4 Furnishing of details of perquisites and profits
+in lieu of salary
+
+As per section 192(2C) every person responsible for paying
+any income chargeable under the head salaries, shall furnish to the
+employee a statement giving correct and complete particulars of
+perquisites or profits in lieu of salary, provided to him and the value
+thereof in :- [Relevant rule 26A (2)(b)]
+
+(a) Relevant columns provided in Form No.
+16, if the amount of
+salary paid or payable to the employee is not more than one
+lakh and fifty thousand rupees, or
+
+(b) In Form No.
+12BA :- if the amount of salary paid or payable
+to the employee is more than one lakh and fifty thousand rupees
+(as per notification no.
+S.O.
+1062 dt.
+04.10.2002 proforma for
+Form 12BA has been provided).
+Where the employer has paid any tax on non-monetary
+perquisite on behalf of the employee as provided in section 192(1A),
+then he must furnish to the employee concerned a certificate to the
+effect that tax has been paid to the Central Government and specify
+the amount so paid, the rate at which tax has been paid and other
+particulars in the amended Form 16.
+2.7.5 Issue of duplicate certificate
+
+Where the original TDS certificate is lost, the employee can
+approach the employer for issue of a duplicate TDS certificate.

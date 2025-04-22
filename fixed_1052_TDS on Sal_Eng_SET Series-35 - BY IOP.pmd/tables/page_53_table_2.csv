@@ -1,0 +1,35 @@
+0,1,2,3,4
+1.,Name and address of employer,,,
+2.,TAN,,,
+3.,TDS Assessment Range of the employer,,,
+4.,"Name, designation and PAN of employee",,,
+5.,"Is the employee a director or a person
+with substantial interest in the company
+(where the employer is a company)",,,
+6.,"Income under the head ‘Salaries’ of the
+employee (other than from perquisites)",,,
+7.,Financial Year,,,
+8.,Valuation of perquisites,,,
+"Sl.
+No.","Nature of
+perquisite
+(see rule 3)","Value of
+perquisite
+as per
+rules (Rs.)","Amount,
+if any,
+recovered
+from the
+employee
+(Rs.)","Amount of
+perquisite
+chargeable
+to tax
+Col(3)-Col(4)
+(Rs.)"
+1.,Accommodation,,,
+2.,Cars/Other automotive,,,
+3.,"Sweeper, gardener,
+watchman or
+personal attendant",,,
+4.,"Gas, electricity, water",,,

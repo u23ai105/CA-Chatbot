@@ -1,0 +1,70 @@
+e-TDS return is in conformity with the file format notified by
+ITD.
+Each e-TDS return is furnished in a separate CD/floppy
+alongwith duly filled and signed Form 27A in physical form.
+Separate Form 27A in physical form is furnished for each e-
+TDS return.
+Form 27A is duly filled and signed by an authorized signatory.
+Striking and overwriting, if any, on Form 27A are ratified by
+the person who has signed Form 27A.
+More than one e-TDS return is not furnished in one CD/floppy.
+More than one CD/floppy is not used for furnishing one e-
+TDS return.
+Label is affixed on CD/floppy containing details of deductor/
+collector like name of deductor/collector, TAN, Form no.
+and
+period to which return pertains.
+e-TDS return is compressed, using Winzip 8.1 or ZipItFast
+3.0 compression (or higher version) utility only.
+TAN quoted in e-TDS return and stated on Form 27A is same.
+Confirm new TAN by using search facility on ITD website .
+Carry copy of TAN allotment letter from ITD or screen print
+from ITD website as proof of TAN to avoid inconvenience at
+time of furnishing due to minor variation in way of transcribing
+the new TAN in e-TDS return.
+In case of government deductors if TAN is not available at
+the time of furnishing return, application for TAN (Form 49B)
+should be made along with e-TDS return or copy of
+acknowledgement of TAN application to be submitted.
+76
+
+.
+Control totals, TAN and name mentioned in e-TDS return
+match with those mentioned on Form 27A.
+.
+In case of Form 24, copies of certificates of no deduction of
+TDS and deduction of TDS at concessional rate, received
+from deductees are attached.
+¢ _ e-TDS return has been successfully passed through the FVU.
+¢  CD/floppy furnished is virus free.
+9.6 Quarterly Statements of TDS :
+
+The provisions of quarterly statements of TDS have been
+introduced in the statute vide section 200(3) w.e.f.
+01/04/2005.
+Every person responsible for deducting tax is required to file
+quarterly statements of TDS for the quarter ending on 30" June,
+30" September, 31 December, and 31“ March in each Financial
+Year.
+This statement is to be prepared in Form No.
+24Q (relevant
+rule 31A) and is to be delivered with prescribed income-tax
+authority [Director General of Income tax (System)]or the person
+authorized by such authority.
+Where the deductor is office of a
+governments, then the quaterly statements is to be filed of 31st
+July, 31st October, 31st December in respect of first three quarters
+and 15th May is respect of last quarter.
+For all other deductors the
+quarterly statements is to be filed on or before the 15th July, the
+15th October and the 15th January in respect of the first three
+quarter of the financial year and or before the 15th May following
+the last quarter of the Financial Year.
+With respect to the quarterly statements of TDS, the following
+points are noteworthy : -
+
+¢ Every deductor is required to file the quarterly statement of
+TDS in form No.
+24Q for each quarter as per the dates specified
+above.
+77

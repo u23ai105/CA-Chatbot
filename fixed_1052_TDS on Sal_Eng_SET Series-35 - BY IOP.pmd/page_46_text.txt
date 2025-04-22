@@ -1,0 +1,99 @@
+b) Name and TAN of deductor and control totals of amount paid
+and income tax deducted at source mentioned on Form No.
+27A should match with the respective totals in the e-TDS/
+TCS return.
+c) All the fields of Form No.
+27A are duly filled.
+14.
+What happens if any of the control totals mentioned in
+Form 27A not match with that in the e-TDS return?
+In such a case the e-TDS return will not be accepted at the
+TIN Facilitation Centre.
+15.
+What happens in a situation where a deductor does not
+have TAN or has a TAN in old format?
+The Deductor will have to file an application in Form
+49B at the TIN Facilitation Centre along with application fee
+(Rs 50/-) for TAN.
+16.
+How to find address of the office where e-TDS return
+can be filed?
+Addresses of the TIN FCs are available on
+www.incometaxindia.gov.in or at_www.tin-nsdl.com..
+
+17.
+What are the due dates for filing quarterly TDS Returns?
+The due dates for filing quarterly TDS returns, both
+electronic and paper are as under:
+
+S.No.| Date of ending Due date for Due date for a deductor
+of the quarter of | government who is a person other
+the financial year | deductor than government
+
+d) | @) GB) (4)
+
+1.
+| 30th June 31st July of the 15th July of the
+financial year financial year
+
+2.
+| 30th September | 31st October of the 15th October of the
+financial year financial year
+
+84
+
+3.
+| 31st December
+
+31st January of the
+financial year
+
+15th January of the
+financial year
+
+4.
+| 31st March
+
+15th May of the
+financial year
+immediately following
+the financial year in
+which deduction is
+made
+
+15th May of the
+financial year
+immediately following
+the financial year in
+which deduction is
+made
+
+18. e-TDS returns have been made mandatory for
+Government deductors.
+How do I know whether I am a
+Government deductor or not?
+All Drawing and Disbursing Officers of Central and State
+Governments come under the category of government deductors.
+19.
+Whether the particulars of the whole year or of the
+relevant quarter are to be filled in Annexures I and II and
+III of Form 24Q?
+» In Annexure I, only the actual figures for the relevant
+quarter are to be reported.
+>» In Annexure II & III estimated/actual particulars for
+the whole financial year are to be given.
+However,
+Annexure II & III are optional in the return for the Ist,
+2nd and 3rd quarters but in the quarterly statement for
+the last quarter, it is mandatory to furnish Annexure II
+& Ill giving actual particulars for the whole financial year.
+20.
+In Form 24Q, should the particulars of even those
+employees be given whose income is below the threshold
+limit or in whose case, the income after giving deductions
+for savings etc.
+is below the threshold limit?
+» Particulars of only those employees are to be reported
+from the Ist quarter onwards in Form 24Q in whose
+
+85

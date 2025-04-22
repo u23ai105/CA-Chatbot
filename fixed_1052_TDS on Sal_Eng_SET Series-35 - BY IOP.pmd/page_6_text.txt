@@ -1,0 +1,108 @@
+of the company, still the statutory responsibility to deduct tax at
+source rests with the company and its principal officer thereof.
+In
+respect of companies, the I.T.Act Section 2(35) has specified
+principal officer to mean:
+
+(a) Secretary, Treasurer, Manager or agent of the company.
+(b) Any person connected with the management or administration
+of the company or upon whom the assessing officer has served
+the notice of his intention to treat him as a principal officer.
+2.3 TDS on simultaneous employment with more than
+one employer or on change of employment
+
+Sub-Section 2 of Section 192 provides that where a person is
+simultaneously employed with more than one employer, he may
+furnish the particulars of salary payments and TDS to the employer
+of his choice.
+Similarly, on change of employment the particulars of
+salary and TDS of earlier employment may be furnished to the
+subsequent employer.
+These particulars are to be furnished in Form
+12 B in accordance with Rule 26A of the LT.Rules.
+The employer
+on receipt of such information is required to take into account the
+particulars of salary and TDS and then deduct tax at source
+considering the aggregate salary from all sources.
+2.4 When is tax to be deducted
+
+Section 192 casts the responsibility on the employer, of tax
+deduction at source, at the time of actual payment of salary to the
+employee.
+Unlike the provisions of TDS, pertaining to payments
+other than salary where the obligation to deduct tax arises at the
+time of credit or payment, which ever is earlier, the responsibility
+to deduct tax from salaries arises only at the time of payment.
+Thus, when advance salary and arrears of salary has been paid,
+the employer has to take the same into account while computing
+the tax deductible.
+2.5 Rate of deduction of tax
+
+As per Section 192, the employer is required to deduct tax at
+source on the amount payable at the average rate of income tax.
+This is to be computed on the basis of rates in force for the financial
+Year in which payment is made.
+The Finance Act of each financial year specifies the rates in
+force for deduction of tax at source.
+For F.Y.
+2012-2013 rate of
+TDS is specified in Part-3, Schedule-I of Finance Act 2012.
+The
+
+same is as follows :-
+
+I In case of individual & HU
+
+F (other than II and III below) :-
+
+(i) Where the total income does
+not exceed Rs.
+2,00,000/-.
+Nil
+
+(ii) Where the total income
+exceeds Rs.
+2,00,000/- but does
+not exceed Rs.
+5,00,000/-.
+10% of the amount in excess of
+Rs.
+2,00,000/-.
+(iii) Where the total income
+exceeds Rs.
+5,00,000/- but does
+not exceed Rs.
+10,00,000/-.
+Rs.
+30,000/- + 20% of the amount
+by which total income exceeds
+Rs.
+5,00,000/-.
+(iv) Where the total income
+exceeds Rs.
+10,00,000/-.
+Rs.
+1,30,000/- + 30% of the
+amount by which total income
+exceeds Rs.
+10,00,000/-.
+the previous year :-
+
+Il In case of every individual resident in India who is of age
+
+of 60 years or more and below 80 years at any time during
+
+(i) Where the total income does
+not exceed Rs.
+2,50,000/-.
+Nil
+
+(ii) Where total income
+exceeds Rs.
+2,50,000/- but does
+not exceed Rs.
+5,00,000/-.
+10% of the amount by
+which the total income exceeds
+Rs.
+2,50,000/-.

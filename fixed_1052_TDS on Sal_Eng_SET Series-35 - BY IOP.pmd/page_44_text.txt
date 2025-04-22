@@ -1,0 +1,80 @@
+for electronic filing of TDS returns notified by the CBDT for
+this purpose.
+CBDT Circular No.8 dated 19.9.03 may also be
+referred.
+4.
+What are the forms to be used for filing annual/quarterly
+TDS/TCS returns?
+Following are the returns for TDS their periodicity:
+
+Form No.
+Particulars Periodicity
+
+Form 24Q | Quarterly statement for tax deducted at | Quarterly
+source from “Salaries”
+
+Form 26Q | Quarterly statement of tax deducted at | Quarterly
+source in respect of all payments other
+than “Salaries”
+
+Form 27Q | Quarterly statement of deduction of tax | Quarterly
+from interest, dividend or any other sum
+payable to non-residents
+
+5. Who is the e-Filing Administrator?
+The CBDT has appointed the Director General of Income-
+tax(Systems) as e- Filing Administrator for the purpose of the
+Electronic Filing of Returns of Tax Deducted at Source Scheme,
+2003.
+6. Who is an e-TDS Intermediary?
+CBDT has appointed National Securities Depository Ltd.,
+Mumbai as e-TDS Intermediary.
+7.
+Is there is any software available for preparation of e-
+TDS/TCS return?
+NSDL has made available a freely downloadable return preparation
+utility for preparationof e-TDS//TCS returns.
+Additionally, you
+
+80
+
+can develop your own software for this purpose or you may
+acquire software from various third party vendors.
+A list of
+vendors, who have informed NSDL that they have developed
+software for preparing e-TDS/TCS return, is available on the
+NSDL-TIN website.
+8.
+How will the e-TDS returns be prepared?
+e-TDS return has to be prepared in the data format issued
+by e-Filing Administrator.
+This is available on the website of
+Income-tax Department at i.e.
+http://www.incometaxindia.gov.in/
+and of NSDL at http://www.tin-nsdl.com/.
+There is a validation
+software available along with the data structure which should be
+used to validate the data structure of the e-TDS return prepared.
+The e-TDS return should have following features:-
+
+>» Each e-TDS return file (Form 24Q, 26Q or 27Q)
+should be in a separate CD/pen drive.
+» Each e-TDS return file should be accompanied by a
+duly filled and signed (by an authorised signatory)
+Form 27A in physical form.
+» Each e-TDS return file should be in one CD/floppy.
+It
+should not span across multiple media computer.
+» Incase the e-TDS return file is in a compressed form at,
+it should be compressed using Winzip 8.1 or ZipItFast
+3.0 compression utility only to ensure quick and smooth
+acceptance of the file.
+» Label should be affixed on each CD mentioning name of
+the deductor, his TAN, Form no.
+(24, 26 or 27) and period
+to which the return pertains.
+» There should be not any overwriting / striking on Form
+27A.
+If there is any, then the same should be ratified by
+an authorised signatory.
+81
