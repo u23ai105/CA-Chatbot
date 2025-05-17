@@ -1,0 +1,56 @@
+
+The issue in this case revolves around whether notional interest on a security deposit given to the landlord in respect of residential premises taken on rent by an employer and provided to the employee can be included in the perquisite value of rent-free accommodation given to the employee. 
+
+In the case, the taxpayer was provided rent-free accommodation by his employer, which was taxed as a perquisite. The taxpayer’s return of income was scrutinized, and the assessing officer added notional interest at 12% on the security deposit paid by the employer to the landlord as part of the perquisite value of the accommodation. The taxpayer appealed against this addition. The CIT (Appeals) upheld the assessing officer’s decision, leading the taxpayer to approach the Tribunal, arguing that such notional interest should not be taxable.
+
+The Bombay High Court, upon review, ruled in favor of the taxpayer. The Court held that the assessing officer was incorrect in adding notional interest on the security deposit to the perquisite value of rent-free accommodation. The Court clarified that the perquisite value of rent-free accommodation should be computed under Rule 3, which does not require the inclusion of notional interest on the security deposit. Therefore, the perquisite value of the residential accommodation would be the actual amount of lease rental paid or payable by the employer, which in this case was lower than the prescribed 10% (now 15%) of the employee's salary.
+
+2011 CIT (TDS) v. Director, Delhi Public School (Punjab and Haryana High Court
+
+This case addresses the question of whether the limit of INR 1,000 per month per child can be allowed as a standard deduction while computing the perquisite value of free or concessional education facilities provided to employees by the employer. 
+
+The case involved the director of a public school who was responsible for deducting tax at source from the salary and remuneration of the teaching staff. During the scrutiny of the Form 12BA, the department found that the assessee had been providing free or concessional educational facilities to the wards of the teachers and other staff members. While calculating the perquisite value of this benefit, the assessee had allowed a deduction of INR 1,000 per month per child from the total amount of educational facilities provided.
+
+The assessing officer held that this deduction was incorrectly claimed and added INR 12,000 per annum per child to the perquisite value. The assessee was treated as being in default for the short deduction of tax, and an additional demand of Rs. 3,93,586 was raised. This demand consisted of short deduction of Rs. 2,97,606 along with interest of Rs. 95,980.
+
+The Punjab and Haryana High Court ruled that according to a plain reading of Rule 3(5), if the value of the perquisite exceeds INR 1,000 per month per child, the entire perquisite would be taxable. Therefore, no standard deduction of INR 1,000 per month per child can be allowed in such cases. It clarified that only if the perquisite value is less than INR 1,000 per month per child, would the perquisite value be considered nil. Thus, the Court ruled that the standard deduction could not be provided in this case.
+
+The question in this case was whether lump sum payments made to deputed employees, which were intended to help them meet the high costs of accommodation and personal expenditures, could be considered a perquisite under section 17(2) of the Income Tax Act, 1961. 
+
+The assessee, engaged in software development, had a branch office in London. It deputed some employees from its Hyderabad office to work in the UK. The assessee did not deduct tax on allowances paid to these employees nor on the salary payments made to local personnel employed in the UK. 
+
+The High Court ruled that the lump sum payments made to these employees were meant to confer additional advantages to help them meet the high costs of accommodation and other personal expenses. Such expenditures could not be treated as costs incurred in the discharge of their duties, as per section 10(14). The Court found that the payments made could not be considered as reimbursements and therefore fell within the definition of "perquisite" under section 17(2). These payments did not qualify for an exemption under section 10(14) because they were not directly connected to the employee’s duties.
+
+This case discusses whether the amount received by an employee upon the cessation of employment can be exempted from tax under section 17(3)(i) of the Income-tax Act. 
+
+The assessee, upon his retirement, received a special compensation of Rs. 27,50,000 as per an agreement for refraining from taking up any employment or consultation that would be prejudicial to his employer’s interests. The assessee argued that the amount was a non-taxable receipt because it was compensation for not taking up competitive employment under a restrictive covenant. However, the assessing officer did not accept this and treated the receipt as taxable, asserting that it fell under section 17(3)(i).
+
+The High Court ruled in favor of the assessee, agreeing with the Tribunal that there was no service contract involving a restrictive covenant. The Court noted that the compensation was not for loss of salary or income, nor was it related to the cessation of the employee's services under the terms of employment. Thus, it could not be classified as income in lieu of salary, and the amount should not be taxed under section 17(3)(i)
+
+The question here was whether the reimbursement of medical expenses incurred by an MLA could be taxed as a perquisite under section 17(2)(iv) of the Income Tax Act.
+
+The assessee, a sitting MLA and former Chief Minister, received a sum from the state government as reimbursement for medical expenses incurred during open heart surgery conducted abroad. The Income Tax Department issued a notice under section 148, claiming that this amount should be taxed as a perquisite under section 17, which was not offered for taxation by the assessee.
+
+The High Court ruled that MPs and MLAs are not considered employees of the government. They are elected by the public and hold a constitutional position with obligations related to the public office. As such, their remuneration cannot be considered salary under section 15, which requires an employer-employee relationship. The Court held that since MPs and MLAs do not have an employer-employee relationship with the government, the provisions of section 17(2) could not be applied, and the reimbursement of medical expenses was not taxable as a perquisite.
+
+**2021 State Bank of India v. ACIT (ITAT Mumbai)**
+
+This case deals with the issue of whether LTC (Leave Travel Concession) exemption can be denied if travel is not undertaken by the shortest route. 
+
+The Mumbai ITAT held that a plain reading of Section 10(5) along with Rule 2B does not specify that travel must be undertaken by the shortest route. The law does not restrict the route chosen for travel within India. However, the exemption is available only to the extent of the fare for travel to the farthest Indian destination by the shortest route. 
+
+The Court found no specific restriction on travel involving a foreign sector. In the absence of such a restriction, the exemption for LTC under section 10(5) could be allowed for the part of the journey that involved domestic travel to the Indian destination. Therefore, the assessee was entitled to claim the exemption under Section 10(5), provided the travel to the farthest Indian destination was by the shortest route.
+
+**Income under the Head "Salary" – Summary**
+
+The income under the head "Salaries" is governed by the provisions of Section 15 of the Income Tax Act. Salary is taxable either on a due basis or on a receipt basis, whichever occurs earlier. The income chargeable under the head "Salaries" includes any salary due to an employee from an employer or a former employer, irrespective of whether it has been paid or not during the previous year. 
+
+Salary can take different forms, such as basic salary, allowances, and perquisites. Basic salary is taxable in the hands of an employee. Allowances are fixed amounts of money given periodically in addition to the salary, either to meet specific service-related requirements or as compensation for unusual working conditions. Allowances are taxable on an accrual basis, whether they are paid in addition to salary or in lieu of it.
+
+Perquisites refer to benefits or amenities provided by the employer to the employee in addition to salary, either in cash or in kind. These benefits may be voluntarily provided or may be part of the employment contract. For income tax purposes, perquisites are divided into three categories: tax-free perquisites, taxable perquisites, and those taxable under specified cases.
+
+The valuation of perquisites is an important aspect of the income under the head "Salaries." A perquisite is included in the salary income only if it is actually provided to the employee. If the employee waives their right to a perquisite, it cannot be taxed, as it was not actually enjoyed by the employee.
+
+Certain deductions are allowed under the head "Salaries" to arrive at the chargeable income. These include a standard deduction of Rs. 50,000 or the amount of salary, whichever is less, entertainment allowance, and professional tax. Additionally, specific perquisites, such as those received for medical treatment or other benefits, may also qualify for exemptions or deductions, depending on the circumstances.
+
+In conclusion, the income tax treatment of salary and associated perquisites depends on the specific nature of the benefit received, the applicable legal provisions, and the factual circumstances of the case. The judicial decisions summarized above help clarify the application of these provisions in different contexts.
