@@ -1,0 +1,81 @@
+trust or institution differs from the concept of income in the case of
+other assessees under the income tax law in one very significant
+respect. Under Section 2(24)(iia) of the Act, voluntary contributions
+(donations) received by these entities from their donors are to be
+taken as their income. This provision applies equally to a trust or
+institution which was created or established only partly for religious
+or charitable purposes. The Act deals with such voluntary
+contributions which are deemed to be the income of the trust or
+institutions under clause (iia) of Section 2(24) primarily in three
+ways. Firstly, anonymous contributions (if any) out of these are
+dealt with in the manner provided under Section 13(7) and 115BBC
+as described in the Para-5.4 below. Secondly, voluntary contributions
+which are in the nature of corpus donations are eligible for
+unconditional exemption (i.e., rules regarding the extent of
+application or accumulation of income do not apply to corpus
+donations) under Section 11(1)(d). Thirdly, voluntary contributions
+which are neither anonymous nor corpus donations are eligible for
+exemption under the other provisions of Section 11, subject to
+fulfilment of conditions specified therein.
+
+FILING OF RETURN
+
+5.3 Acharitable or religious trust or institution is mandatorily required
+to file a return of income under Section 139(4A) if its income
+without giving effect to the provisions of Sections 11 and 12
+exceeds the maximum amount not chargeable to income-tax. In
+other words, such a trust or institution must file a return of income
+if it has taxable income for the year before claiming exemption
+under Sections 11 and 12. The report of the auditor in Form 10B
+mentioned in Para-4.6 has to be filed along with the return.
+
+ANONYMOUS DONATIONS
+
+5.4 A significant legal change has been brought about by Finance
+Act, 2006 with effect from 01.04.2007 by inserting a new provision
+(Section 115BBC) whereby anonymous donations will not enjoy
+exemption but would be chargeable to tax at the rate of 30 per cent
+from Assessment Year 2007-08 onwards. This provision, as it stands
+
+14
+
+after further amendment by Finance Act, 2009 lays down that from
+Assessment Year 2010-11 onwards, tax treatment of anonymous
+donations (i.e., donations in respect of which the assessee
+fund/trust/institution etc. does not maintain records of
+identity indicating the name and address, or other particulars
+of the donor as are prescribed under the I-T Act) would be
+as follows:
+
+L Anonymous donations received by wholly religious
+institutions shall remain exempt from tax.
+
+i. Inthe case of partly religious and partly charitable institutions,
+anonymous donations to medical or educational institutions
+run by them will be taxable at 30 percent if the same exceed 5
+per cent of total donations received by such trust/institution
+or Rs. 1 lakh, whichever is more. Donations to partly religious
+and partly charitable institutions which do not run such
+medical or educational institutions shall remain exempt from
+taxation.
+
+ii. In the case of wholly charitable institutions, anonymous
+donations will be taxable at 30 percent ifsuch donations exceed
+5 per cent of total donations received by such trust or
+institution or Rs. 1 lakh, whichever is more.
+
+EXEMPTION OF INCOME
+
+5.5 Under Section 11, exemption of income has been provided for
+in respect of the following:
+
+(i) Income “applied_to” charitable/religious purposes in India: Section
+11(1) (a) permits exemption of income derived from property held under
+trust wholly ' for charitable or religious purposes to the extent it is actually
+applied to such purposes during the financial year. Courts have held that
+
+184 trust which was created prior to 01.04.1962 is entitled to claim exemption in
+respect of its income from property held only partly for charitable or religious
+purposes also, subject to the conditions mentioned in Section 11(1)(b).
+
+15

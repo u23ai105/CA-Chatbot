@@ -1,0 +1,71 @@
+Property-the common view
+
+In common parlance, property is understood in wide sense.
+It is not only the thing which is the subject matter of ownership
+but is taken to mean ‘dominon’ or right of ownership or even
+partial ownership. Lord Longdale in John v. Skinner (1836) 5Lg
+67-90 (Ch) has described it as the most comprehensive of all the
+terms which can be used in as much as it is indicative and
+descriptive of every possible interest which a person can have.
+However, for purposes of taxation under sections 22 to 27 of the
+Act, such wider definition of property is not relevant. The income
+to be taxable should be “Income from House Property”.
+
+Section 22 of the IT Act 1961
+
+Section 22 provides for taxation of ‘annual value’ of a
+property consisting of any buildings or lands appurtenant
+thereto, of which the assessee is owner, under the head
+“income from House Property”. Tax imposed under section
+22 is a tax on ‘annual value’ of house property and is not a tax
+on “House Property”. However, if a house property
+is occupied by a taxpayer for the purpose of business
+or profession carried on by him (the profits of which
+are chargeable to income tax), annual value of such property
+is not chargeable to tax under the head ‘Income from
+House Property’.
+
+In the earlier discussion, the phrase ‘lands appurtenant
+thereto’ has also been used. It needs to be clarified in this
+context that income from letting of vacant plots of land when
+there is no adjoining building will not be taxed under this
+head (but will be taxed as income from other sources). The
+existence of a building is, therefore, an essential perquisite
+Building will, of course, include residential house (whether let out
+
+or self occupied), office building, factory building, godowns, flats,
+etc. as long as they are not used for business or profession by
+owner. And the purpose for which the building is used by the
+tenant is also immaterial. Thus, income from letting out godowns
+will be taken as income from house property. It does not make
+any difference at all if the property is owned by a limited
+company or a firm.
+
+CONDITIONS NECESSARY FOR TAXING INCOME
+FROM HOUSE PROPERTY
+
+These are:
+
+* The property should consist of any building or land
+appurtenant thereto
+
+* The assessee should be the owner of the property
+
+* The property should not be used by the owner for the
+purpose of any business or profession carried on by him,
+the profits of which are chargeable to tax.
+
+Unless all the aforesaid conditions are satisfied, the
+property income cannot be charged to tax under the head
+‘Income from House property’.
+
+‘Owner’-concept explained
+
+For the purpose of section 22, the concept hitherto
+understood even in court decisions has been that the owner
+has to be a legal owner. Annual value of property is assessed
+to tax under section 22 in the hands of owner even if he is not
+in receipt of income or even if income is received by some
+other person. For instance, if a person makes gift of rental
+income to a friend or a relative, without transferring ownership
+of the property, annual value of property is taxable in the

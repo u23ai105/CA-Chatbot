@@ -1,0 +1,35 @@
+115 defines the expression ‘specified date’ for different
+types of income in respect of which the conversion, in
+rupees, is required to be made. Rule 115, however, does
+not apply in respect of the income chargeable under the
+head Income from house property’, ‘Profits and gains of
+business or profession’ and Income from other sources’
+(not being dividends and interest on securities), where
+such income is received in, or brought into, India by an
+assessee or on his behalf before the specified date in
+accordance with the provisions of the Foreign Exchange
+Regulation Act, 1973.
+
+6.2 The specified date for different sources of income
+has been prescribed in rule 115 as under:
+
+(i) Salaries: In respect of income chargeable under
+the head ‘salaries’, it is the last day of the month
+immediately proceedings the month in which the
+salary is due or is paid in advance or in arrears.
+For example, if the salary of US $ 10,000 for
+February, 2006 due on 28th February, is paid on
+7th March, 2006, together with arrears of salary
+for the months of October, 2005 to January,
+2006, of US $ 2,000, the conversion rate for $
+10,000 would be the TT buying rate of U.S. dollars
+on 31st January, 2006 while for the arrears of
+U.S. $ 2,000, it would be that of 28th February,
+2006, except if the arrears of salary have already
+suffered tax on ‘due’ basis.
+
+(ii) In respect of income by way of ‘interest on
+securities’, it is the last day of the month
+immediately preceding the month in which the
+
+33

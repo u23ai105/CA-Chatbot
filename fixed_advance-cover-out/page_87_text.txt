@@ -1,0 +1,50 @@
+No roll back provision
+
+28.
+
+Answer:
+
+There are no roll back provisions in the APA rules.
+Would the Transfer Pricing Officers be encouraged
+by the DGIT(IT) to undertake audits of prior periods
+consistent with the APA outcome?
+
+Under the provisions of the Income-tax Act, the DGIT
+(International Taxation) has no such powers to issue
+directions of this nature.
+
+Miscellaneous
+
+29.
+
+Answer:
+
+30.
+
+Answer:
+
+Section 92CC provides that the manner of
+determination of ALP in an APA may include the
+methods referred to in section 92C(1) or any other
+method. But the reference to ‘any other method’ is
+missing in the APA rule 10F(g). Would it mean that
+apart from the 6 methods referred to insection 92C(1)
+read with rule 10AB, ‘any other method’ would not be
+allowed under the APA Scheme?
+
+The sixth method already allows use of any method
+leading to arm’s length price.
+
+The Indian TP regulations require use of arithmetic
+mean and do not allow inter-quartile range. Can the
+taxpayers consider use of median and the concept of
+inter-quartile range in a bilateral APA? This is important
+as almost all other countries adopt a median/inter-
+quartile range and not arithmetic mean. Where the
+APA determines the ALP (as against methodology),
+would the ALP be a specific price or a range?
+
+The Indian tax laws specifically mandates use of
+arithmetic mean. However, even with this requirement
+
+75

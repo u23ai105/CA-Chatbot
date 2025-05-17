@@ -1,0 +1,35 @@
+Once the Form is filled, click on “Preview and
+Submit”.
+
+After the successful submission of the form,
+screen will be displayed asking if the taxpayer
+has a DSC registered in the profile. In sucha
+case, attach the signature file generated using
+DSC Management Utility and click “Submit”.
+However, if the taxpayer does not have a DSC
+registered in the profile, then another screen will
+
+be displayed, suggesting three options as under:
+
+Option 1: I already have an EVC to e-verify the
+
+form.
+
+Option 2: I do not have an EVC but would like to
+generate EVC to e-verify the form.
+
+Option 3: I would like to generate Aadhar OTP to
+
+e-verify the form.
+
+Form No 35 can be verified using any of the above
+
+options.
+
+Upon the successful submission of the form,
+transaction id is generated and the confirmation
+mail is sent to the registered email id, as an
+
+Acknowledgement for having filed e-appeal.
+
+16

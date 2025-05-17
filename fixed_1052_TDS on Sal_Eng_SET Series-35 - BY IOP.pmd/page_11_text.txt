@@ -1,0 +1,83 @@
+2.
+For the aforesaid purpose the responsibility of specifying
+the procedures format, and standard for ensuring secure
+capture and a transmission of data and for day to day
+administration will be of DGIT (Systems).
+3.
+Where tax has been deposited accompanied by an Income-
+tax challan the amount tax deducted or collected shall be
+deposited to the crdit of the Central Government by
+remitting it within the time specified in above (Rule 30).
+2.6.4 Electronic payment of taxes
+
+An optional scheme of electronic payment of taxes for income-
+tax was introduced in 2004.
+However with a view to expand the
+scope of electronic payment of taxes, the scheme of electronic
+payment of taxes has been made mandatory (vide notification
+No.
+34/2008 dt.
+13.3.2008 of CBDT) for the following categories
+of tax-payers (referred in rule 125(1)).
+(i) All corporate assessees;
+
+(ii) All assessees (other than company) to whom provisions of
+section 44AB of the Income Tax Act are applicable.
+2.
+The scheme of mandatory electronic payment of taxes for
+income-tax payers has been made applicable from 1* April, 2008
+and is also applicable to payment of taxes to Government account
+where tax has been deducted at source.
+3.
+The Income-tax (6 Amendment Rules) 2010
+(Notification dt.
+31/5/2010 provides that for category of
+assessees as mentioned above who are compulsorily to make
+electronic payment of TDS; such payment is to be remitted into
+R.B.1., S.B.I.
+or any autorized bank accompanied by an
+electronic Income-tax challan.
+The electronic remittance can
+be made :
+
+(a) By internet banking facility of RBI, SBI or the
+authorized Bank.
+(b) By Credit or Debit Card.
+However, for payments deducted prior to 1/4/2010 the
+provisions of rule prior to this amendment will apply.
+2.7 Issue of T.D.S.
+Certificate
+
+2.7.1 Every person deducting tax at source is required as per
+Section 203 to furnish a certificate to the payee to the effect that
+tax has been deducted along with certain other particulars.
+This
+certificate is usually called the TDS certificate.
+Even the banks
+deducting tax at the time of payment of pension are required to
+issue such certificates.
+In case of employees receiving salary
+income including pension, the certificate has to be issued in form
+No.16.
+The certificate is to be issued in the deductor’s own
+stationery.
+However, there is no obligation to issue TDS certificate
+in case of tax at source is not deducted /deductible by virtue of
+claims of exemptions/ deductions.
+° Vide Income-tax (6" Amendment) Rules 2010, a new Form
+No.
+16 has been notified which will be applicable for tax
+deductions after 1/4/2010 (refer Annexure-1 of this book
+for new form).
+e The deductor is also to provide relevant information of
+tax deduction and deposition vide book entry or challan
+vide Annexure A and Annexure B of this new form 16.
+
+e Besides the deductor is also required to specify the
+following in Form No.
+16
+
+(a) Valid Permanent account number (PAN) of the deductee;
+
+(b) valid tax deduction and collection account number
+(TAN) of the deductor;

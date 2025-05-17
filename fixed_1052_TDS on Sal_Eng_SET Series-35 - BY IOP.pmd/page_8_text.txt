@@ -1,0 +1,76 @@
+liability, then the employer can accordingly reduce the quantum
+of TDS.
+2.5.5 Deduction at a lower rate or non-deduction
+of tax
+
+Section 197 enables a tax payer to make an application to his
+Assessing Officer for deduction of tax at a lower rate or non
+deduction of tax.
+The application has to be made in Form No.13
+(Rule 28AA).
+If the Assessing Officer is satisfied that the total
+income of a tax payer justifies the deduction of income tax at any
+lower rate or no deduction of income tax, he may issue a certificate
+in Form No.
+15AA (relevant Rule 28AA) providing for deduction
+of tax at lower rate or no deduction of tax.
+The certificate is valid only for the assessment year as specified
+therein.
+On expiry of the validity period, a fresh application may be
+made.
+A certificate is issued directly to the person responsible for
+deducting tax/DDO with a copy to the applicant.
+In absence of
+such a certificate from the employee, the employer should deduct
+income tax on salary payable at normal rates (Circular No.
+147 dt.
+28-10-1974).
+w.e.f 1.4.2011 vide Income-tax (Second Amendment) Rules
+2011 the following provisions have been incorporated in Rule
+28AA pertaining to issue of TDS certificate u/s 197
+
+(1) Where the Assessing Officer, on an application made by a
+person under sub-rule (1) of rule 28 is satisfied that existing
+and estimated tax liability of a person justifies the deduction
+of tax at lower rate or no deduction of tax, as the case
+may be, the Assessing Officer shall issue a certificate in
+accordance with the provisions of sub-section (1) of section
+197 for deduction of tax at such lower rate or no deduction
+of tax.
+(2) The existing and estimated liability referred to in sub-rule (1)
+shall be determined by the Assessing Officer after taking
+into consideration the following:-
+
+(i) tax payable on estimated income of the previous year
+relevant to the assessment year;
+
+(ii) tax payable on the assessed or returned income, as the
+case may be, of the last three previous years;
+
+(iii) existing liability under the Income-tax Act,1961 and
+Wealth-tax Act, 1957;
+
+(iv) advance tax payment for the assessment year relevant
+to the previous year till the date of making application
+under sub-rule (1) of rule 28;
+
+(v) tax deducted at source for the assessment year relevant
+to the previous year till the date of making application
+under sub-rule (1) of rule 28; and
+
+(vi) tax collected at source for the assessment year relevant
+to the previous year till the date of making application
+under sub-rule (1) of rule 28.
+(3) The certificate shall be valid for such period of the previous
+year as may be specified in the certificate, unless it is cancelled
+by the Assessing Officer at any time before the expiry of the
+specified period.
+(4) The certificate shall be valid only with regard to the person
+responsible for deducting the tax and named therein.
+(5) The certificate shall be issued direct to the person
+responsible for deducting the tax under advice to the person
+who made an application for issue of such certificate.
+2.5.6 TDS where the salary paid is net of tax
+
+Where the employee enters into an agreement or an
+arrangement as per which the tax chargeable on the income is

@@ -1,0 +1,80 @@
+2.
+In other cases of deposition by the Government vide a
+challan, the payment has to be made within seven days (7
+days) of the last day of the month in which the deduction
+is made or income-tax is due under section 192(1A).
+3.
+In case of a deductor other than Government, the payment
+is to be made before 30" day of April where income or
+amount is credited or paid in the month of March.
+4.
+In other cases of deduction by non-government deductors,
+payment has to be made within seven days from the end of
+month in which deduction is made or Income-tax is due
+under sub-section 1-A of Sec.
+192.
+5.
+However, vide Rule 30(B), the Assessing Officer can, in
+special cases with the prior approval of joint Commissioner
+of Income Tax, allow payment of TDS quarterly, i.e.
+by 7"
+of July for the quarter ending 30" of June, by 7" of
+October for the quarter ending 30" of September, by 7"
+of January for the quarter ending 31" of December and
+by 30" of April for the quarter ending 31" of March.
+2.6.2 Place of desposition of tax
+
+Tax has to be deposited to the credit of the Central Government
+in any of the branches of RBI, SBI or any authorised bank.
+The
+payment can be made either in cheque or cash or draft drawn on
+local banks.
+In case of payment made by cheque, the date of
+encashment of the cheque will be the date of payment of tax
+(Circular No.141 dt.
+23-7-1974).
+It has been clarified vide circular No.306 dt.
+19-6-1961 that
+payment of tax deducted at source should be made at the place
+where the DDO/the person responsible for TDS is required to file
+annual/periodical statement of TDS.
+2.6.3 Challan of Payment
+
+Where a deduction is made by or on behalf of the Government,
+the amount is to be credited in the manner specified above without
+the use of challan (See Rule 30).
+In case of other deductors, the
+deposition of TDS is to be made vide challan No.ITNS 281.The
+deductor must ensure that the details like employer’s name and
+address, PAN, TAN, the Assessing Officer having jurisdiction, the
+amount of tax and surcharge and cess, the date of payment, the
+salary from which TDS has been done and the tax which is being
+paid, are correctly filled.
+Where TDS is credited to Government
+account through book adjustments, care should be taken by the
+DDOs to ensure that the correct amount of income tax is reflected
+therein.
+For deductions made after 1.4.2010 the I.T.
+6" Amendment
+rules 2010 (notification dt.
+31/5/2010) provide the following
+(Rule 30(4)).
+1.
+In case of deduction by the office of a Government without
+the production of challan, the pay and Accounts officer
+or the Treasury officer or the cheque Drawing and
+Disbursing officer, to whom the deductor reports the
+deduction and who is responsible for crediting the sum to
+the Central Government, is required to;
+
+(a) Submit a statement in form 24G within ten day from
+the end of the month, in respect of the tax deducted
+and reported to him for that month.
+This statement is
+to be furnished to an agency authorized by DGIT
+(Systems).
+(b) Such agency will generate a number called Book
+Identification Number in respect of tax deducted and
+credited.
+This number is to be intimated to the
+respective deductors by the PAO/DDO/Treasury officers.

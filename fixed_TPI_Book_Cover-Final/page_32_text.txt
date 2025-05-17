@@ -1,0 +1,48 @@
+As per proviso to section 206(2) , w.e.f. 1.4.2005,the
+prescribed person in the case of every office of the government
+and the principal officer in the case of every company,
+responsible for deducting tax, is mandatorily required to
+deliver, such returns on the computer readable media, after
+the end of each financial year and within the prescribed time.
+
+Further, as per I.T.(6" Amendment) Rules, 2010, the following
+are also to mandatorily required to file returns on computer readable
+media.
+
+(a) Deductor is a person requiring his accounts to be audited
+u/s. 44 AB in the immediately preceding F.-Y.
+
+(b) The number of deductees record in a statement in any
+quarter of the F.-Y. is 20 or more.
+
+5.6 Rights of Tax Payer
+5.6.1 Credit of TDS
+
+If tax has been deducted at source u/s 192 to 194 A/B/BB/C/
+D/E/EE/F/G/H/I/J/K, 195, 196A/B/C and D, the person from whose
+income (payment) the tax has been deducted i.e. Payee or assessee
+shall not be asked upon to pay the tax himself to the extent tax has
+been deducted(Sec.205). Moreover u/s 199 such tax deducted at
+source shall be treated as payment of tax on behalf of the payee
+(assessee).
+
+5.6.2 TDS Certificate - U/s 203 payee (tax payer) is entitled to
+obtain a certificate from the payer(tax deductor) in Form 16-A
+specifying the amount of tax deducted and other prescribed
+particulars. This has been discussed in detail earlier.
+
+5.6.3 Form 26 AS
+
+As per section 203AA the prescribed income tax authority or
+the person authorized by such authority (as referred in section
+200(3))will be required to deliver to the person from whose income
+
+52
+
+the tax has been deducted/paid, a statement of deduction of tax in
+the prescribed form. Such statement as per rule 31AB will be
+required to be furnished in Form no.26AS by the 31st July following
+the financial year during which the taxes were deducted/paid
+(also refer Notification no. 928 E dt. 30.6.2005 of CBDT).
+
+53

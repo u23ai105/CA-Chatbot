@@ -1,0 +1,71 @@
+TAX DEDUCTION AND COLLECTION ACCOUNT
+NUMBER
+
+2.9 Introduction: T.A.N.
+or tax deduction and collection
+account number is a unique number alloted to the deductor/
+collector of tax at source for the purpose of identification of
+every deductor.
+2.9.1 Who shall apply for TAN: Every person deducting
+tax at source is required as per Section 203(A) to apply to the
+assessing officer for allotment of TAN.
+The application has to be
+made in duplicate in form 49B (Rule 114A).
+Such application has
+to be either furnished to the Assesssing Officer (AO) specifically
+assigned the function of allotment of TAN by the CCIT/CIT or
+in any other case to the AO having jurisdiction to assess the
+applicant.
+2.9.2 Responsibility to quote TAN: Section 203(A)(2)
+casts a statutory responsibility on the deductor to quote TAN in
+the following places once it has been alloted :-
+
+G) In all challans for the payment of any sum in accordance
+with the provisions of Section 200
+
+(i) In all certificates issued pertaining to deduction of tax in
+accordance with the provisions of Section 203
+
+(iii) In all statements submitted in accordance with the provisions
+of sub section (3) of section 200 (quarterly statements).
+(iv) In all returns filed pertaining to deduction of tax at source
+in accordance with the provisions of Section 206.
+(v) In all other documents pertaining to such transactions as
+may be prescribed in the interest of revenue.
+26
+
+2.9.3 QUOTING OF PAN BY EMPLOYER/
+DEDUCTOR - The deductor of tax at source is required as
+per section 139A(5B) to quote the PAN of the person from
+whose income TDS has been done in ;
+
+(a) Statement furnished u/s 192(2C) (statement of particulars of
+profit in lieu of salary).
+(b) Certificate furnished u/s 203 (TDS Certificate).
+(c) Return of TDS prepared & delivered u/s 206.
+(d) In all statements submitted in accordance with the provisions
+of sub section (3) of section 200 (quarterly statements).
+2.9.4 Requirement to furnish Permanent Account
+Number.
+The Finance Act, 2010 has introduced sec.
+206AA(w.e.f.
+1/4/2010) requiring the deductee to quote his PAN, failing which,
+tax at a higher rate shall be deducted.
+It provides the following :
+
+(1) Notwithstanding anything contained in any other
+provisions of this Act, any person entitled to receive any
+sum or amount, on which tax is deductible under Chapter
+XVIIB(hereafter referred to as deductee) shall furnish his
+Permanent Account Number to the person responsible for
+deducting such tax(hereafter referred to as deductor),
+failing which tax shall be deducted at the higher of the
+following rates, namely-
+
+(i) at the rate specified in the relevant provision of this
+Act; or
+
+(ii) at the rate or rates in force; or
+
+(iii) at the rate of twenty per cent.
+27

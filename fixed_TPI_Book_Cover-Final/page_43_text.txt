@@ -1,0 +1,86 @@
+13.
+
+Whether any charges are to be paid to the e-TDS
+Intermediary?
+
+The assessee is to pay following charges as upload charges
+at the time of filing of e-TDS return to M/s NSDL.
+
+Category of e-TDS return Upload charges
+
+Returns having up to 100 deductees Rs.25/-
+records
+
+Returns having 101 to 1000 deductees |Rs. 150/-
+records
+
+Returns having more than 1000 Rs.500/-
+deductees records
+
+Tax as applicable will also be paid by
+the deductor.
+
+14.
+
+15.
+
+How to find address of the office where e-TDS
+return can be filed?
+
+Addresses of the TIN FCs are available on
+www.incometaxindia.gov.in or at_www.tin-nsdl.com..
+
+What are the due dates for filing quarterly TDS
+Returns?
+
+The due dates for filing quarterly TDS returns, both electronic
+and paper are as under:
+
+Quarter Due Date | Due Date for 27 Q
+April to June July 15 14 July
+July to September October 15 | 14 October
+October to December January 15 | 14 January
+January to March June 15 14 June
+74
+
+16. E-TDS returns have been made mandatory for
+Government deductors. How do I know whether I am a
+Government deductor or not?
+
+All Drawing and Disbursing Officers of Central and State
+Governments come under the category of government deductors.
+
+17. Whether the particulars of the whole year or of the
+relevant quarter are to be filled in Annexures I, II and
+Ill of Form 24Q?
+
+In Annexure I, only the actual figures for the relevant quarter
+are to be reported.
+
+In Annexures II & III, estimated/actual particulars for the
+whole financial year are to be given. However, Annexures II
+& IL are optional in the return for the 1st, 2nd and 3rd quarters
+but in the quarterly statement for the last quarter, it is mandatory
+to furnish Annexures II & III giving actual particulars for the
+whole financial year.
+
+18. In Form 24Q, should the particulars of even those
+employees be given whose income is below the
+threshold limit or in whose case, the income after giving
+deductions for savings etc. is below the threshold limit?
+
+Particulars of only those employees are to be reported from
+the Ist quarter onwards in Form 24Q in whose case the
+estimated income for the whole year is above the threshold limit.
+
+In case the estimated income for the whole year of an
+employee after allowing deduction for various savings like
+PPF, GPF, NSC etc. comes below the taxable limit, his
+particulars need not be included in Form 24Q.
+
+In case due to some reason estimated annual income of an
+employee exceeds the exemption limit during the course of
+the year, tax should be deducted in that quarter and his
+particulars reported in Form 24Q from that quarter onwards.
+
+75
